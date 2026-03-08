@@ -1,21 +1,7 @@
 # LDO-Voron-2.4-kit-rev-D-By-RjRepoMan
-This Is my Version of the LDO VORON 2.4, I am Making this to help the new person coming to this with 0 experence.
 
-Some people's brains work differently, or some people may be GREEN to building your first 3d printer. 
-My whole objective to this Manaul, is to make it very easy and understandable. 
+This is my version of the LDO VORON 2.4. I am creating this to assist individuals new to this project with no prior experience. Some individuals process information differently, or may be unfamiliar with constructing their first 3D printer. My primary goal with this manual is to ensure it is both easily accessible and readily understandable. I am experiencing considerable difficulties while constructing my 2.4. The existing guides and manuals are incomplete and lack the necessary information that I require. I find it challenging to navigate between various guides and manuals.
 
-I am building my 2.4 with GREAT DIFFiculties.
+This has become a personal project of mine to simplify the process and create a manual for those seeking an easier experience, or who process information similarly to myself. My intention is for anyone, regardless of age, to be able to build this using my manual.
 
-The current guide's and manuals are not full and contain all the nessiary info that i need (for someone with my brain)
-I find it difficult to go from guide to another guide to manaul to 3rd guide to 2nd manual to 5.... 6... 7th manual.
-You get the point. 
-
-This has become a pet project of mine.....  to simplify things... and make a manual for people who want an easier time,
-or have brains that work like mine...  
-
-I WANT THE WHOLE WORLD NO MATTER THE AGE, TO BE ABLE TO BUILD THIS USING MY MANAUL TO BUILD THE VORON 2.4
-
-this manual is a on-going process at the moment. things maybe change or not be complete. 
-I am doing this all on my own while i am building my KIT. PLease bear with me, and give me some time.
-
-thank you all, and i hope this helps you.  
+This manual is currently a work in progress. Changes may occur, and it may not be entirely complete. I am undertaking this project independently while simultaneously building my kit. I appreciate your patience and understanding.
