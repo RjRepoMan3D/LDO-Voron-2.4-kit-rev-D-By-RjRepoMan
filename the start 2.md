@@ -4,7 +4,8 @@ VORON
 
 
 
-![Screenshot 2026-04-01 121552.jpg](C:\Users\rjkos\Pictures\Screenshots\Screenshot%202026-04-01%20121552.jpg)
+![Screenshot 2026-04-01 121552](https://github.com/user-attachments/assets/50b76754-d6b0-4e33-99e4-a5af896daf0c)
+
 
 
 
@@ -12,10 +13,11 @@ VORON2 2.4R2 BUILD GUIDE
 
 We build space shuttles with gardening tools so anyone can have a space shuttle of their own.
 
-INTRODUCTI![Screenshot 2026-04-01 122430](https://github.com/user-attachments/assets/1124fd4f-e8dd-462d-a4a8-6ed18b62c9f4)
-ON
+INTRODUCTION
 
-![Screenshot 2026-04-01 122430.jpg](C:\Users\rjkos\Pictures\Screenshots\Screenshot%202026-04-01%20122430.jpg)
+![Screenshot 2026-04-01 122430](https://github.com/user-attachments/assets/22d6e2cd-562e-4534-8523-350a6ef78a43)
+
+
 
 Before you begin on your journey, a word of caution.
 
