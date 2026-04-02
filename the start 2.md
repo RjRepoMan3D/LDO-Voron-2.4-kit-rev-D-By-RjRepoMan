@@ -12,7 +12,8 @@ VORON2 2.4R2 BUILD GUIDE
 
 We build space shuttles with gardening tools so anyone can have a space shuttle of their own.
 
-INTRODUCTION
+INTRODUCTI![Screenshot 2026-04-01 122430](https://github.com/user-attachments/assets/1124fd4f-e8dd-462d-a4a8-6ed18b62c9f4)
+ON
 
 ![Screenshot 2026-04-01 122430.jpg](C:\Users\rjkos\Pictures\Screenshots\Screenshot%202026-04-01%20122430.jpg)
 
