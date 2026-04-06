@@ -10,8 +10,6 @@ EXTRUSION REFERENCE
 
 
 
-FRAME
-
 +-------------------------+-----------------+-------------------+
 | Hardware needed         | Tool's needed   | Parts needed      |
 +----------+--------------+--------+--------+-------+-----------+
@@ -19,10 +17,11 @@ FRAME
 |          |              | driver |        |       | Extrusion |
 +==========+==============+========+========+=======+===========+
 
-![](media/image16.jpg){width="2.272030839895013in"
-height="1.8152613735783028in"}
+![Screenshot 2026-04-06 145045](https://github.com/user-attachments/assets/c086fa74-019b-416a-8e40-cd808b2c6273)
 
-![](media/image1.jpg){width="6.5in" height="2.8472222222222223in"}
+![Screenshot 2026-04-06 145215](https://github.com/user-attachments/assets/8458bd89-5188-4d62-b335-49d335d69a6e)
+
+
 
 PREPARE 8 EXTRUSIONS
 
@@ -43,11 +42,10 @@ FRAME
 |        |        | 4           | B extrusions        |
 +========+========+=============+=====================+
 
-![](media/image8.jpg){width="2.4479975940507437in"
-height="2.028228346456693in"}
+![Screenshot 2026-04-06 145414](https://github.com/user-attachments/assets/d2322b31-e9d2-419a-9dd2-1f7f0cee7abf)
 
-![](media/image2.jpg){width="4.824880796150481in"
-height="3.247516404199475in"}
+![Screenshot 2026-04-06 145528](https://github.com/user-attachments/assets/7366c5e3-cdcf-4d33-8796-988a6a56673b)
+
 
 BUILD ON A FLAT SURFACE
 
@@ -62,8 +60,8 @@ checking that it's square.
 
 FRAME
 
-![](media/image13.jpg){width="5.659913604549431in"
-height="5.904814085739282in"}
+![Screenshot 2026-04-06 145639](https://github.com/user-attachments/assets/63887f84-bdb8-4032-a14c-9964d5480ab8)
+
 
 It should look like this.
 
@@ -79,11 +77,11 @@ FRAME
 |        |        |        | sub-assembly |
 +========+========+========+==============+
 
-![](media/image11.jpg){width="2.1553926071741034in"
-height="1.7823436132983377in"}
+![Screenshot 2026-04-06 145828](https://github.com/user-attachments/assets/985d0cc3-8d50-415b-b89b-40d39933096c)
 
-![](media/image17.jpg){width="4.971165791776028in"
-height="4.963198818897638in"}
+
+![Screenshot 2026-04-06 145920](https://github.com/user-attachments/assets/0e808a1c-ba11-4b31-99ae-6c668ed4cd1b)
+
 
 Double check that the frame is square.
 
