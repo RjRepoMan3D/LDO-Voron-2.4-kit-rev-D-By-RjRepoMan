@@ -1,0 +1,156 @@
+FRAME
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+EXTRUSION REFERENCE
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+FRAME
+
+Hardware needed	Tool’s needed	Parts needed 
+16	M5X16 BHCS	Hex driver	3.0	8	A Extrusion
+
+
+ 
+ 
+
+PREPARE 8 EXTRUSIONS
+The extrusions are going to be used in this section. Prepare them as shown above, to make “A EXTRUSION SUB-ASSEMBLY”.
+
+Leave a gap between the head of the screw and the extrusions, this will be needed in the following steps
+ 
+FRAME
+
+
+Tool’s needed	Parts needed 
+Hex driver	3.0	4	A Extrusion sub-assembly
+		4	B extrusions
+ 
+
+
+ 
+
+BUILD ON A FLAT SURFACE
+Build the frame on a glass or granite surface to ensure you can get it as square as possible. Using something like 123 blocks or 90 degree squares may help. 
+
+Put the parts together, make sure to tighten the M5x16 BHCS firmly, checking that it’s square.
+, 
+FRAME
+ 
+
+
+It should look like this. 
+
+ 
+FRAME
+
+Tool’s needed	Parts needed 
+Hex driver	3.0		Frame
+		4	A Extrusion sub-assembly
+  
+ 
+Double check that the frame is square. 
+ 
+FRAME 
+
+ 
+Hardware needed	Tool’s needed	Parts needed 
+4	M5X16 BHCS	Hex driver	3.0	2	A Extrusion
+				4	Corner Brackets
+
+
+
+ 
+
+
+
+
+This is the “Bed attachment extrusions”
+
+
+
+
+
+
+
+ 
+FRAME
+
+Hardware needed	Tool’s needed	Parts needed 
+4	  M5X10 BHCS	Hex driver	3.0	2	Bed attachment extrusions
+4	M5 Precision Space				
+
+
+
+
+
+
+
+LOOK AT THE NEXT PAGE FOR PLACEMENT AND POSITION OF LOCATION!
+
+   
+*The brass M5 Precision Spacer are used in place of the M5 Shim. This will be for all M5 Shims in the guide unless noted 
+FRAME
+ 
+
+POSITION BED EXTRUSIONS
+Find the centreline of the printer and
+position the bed extrusions as shown
+in the diagram to the left. The distance
+between the extrusions is 130mm
+centred on the centreline of the printer.
+
+1/2 printer width for standard sizes:
+250 spec 205mm
+300 spec 230mm
+350 spec 255mm	ALL UNITS ARE METRIC
+If a unit is not specified
+assume it’s metric.
+All distances are called out in
+millimeters.
+
+
+
+
+
+FRAME
+
+ 
+CHECK FOR SQUARENESS
+Verify the angle of all corners and the overall squareness by measuring the diagonals. Refer to the second half of the linked video for additional information.
+
+
+https://voron.link/kdtpzam
+
