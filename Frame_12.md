@@ -27,7 +27,7 @@ PREPARE 8 EXTRUSIONS
 
 The extrusions are going to be used in this section. Prepare them as
 shown above, to make "A EXTRUSION SUB-ASSEMBLY".\
-\
+
 Leave a gap between the head of the screw and the extrusions, this will
 be needed in the following steps
 
