@@ -1,14 +1,15 @@
 FRAME
 
-![Screenshot 2026-04-06 143834](https://github.com/user-attachments/assets/4ba4f500-49d3-450e-8750-ebe92b6aefcc)
-
+![](media/image4.jpg){width="6.5in" height="5.152777777777778in"}
 
 EXTRUSION REFERENCE
 
-![Screenshot 2026-04-06 144407](https://github.com/user-attachments/assets/e8f4e669-3e14-41ad-b066-347ea89e8799)
+![](media/image9.jpg){width="1.304861111111111in"
+height="1.0476531058617673in"}
 
+![](media/image15.jpg){width="6.5in" height="4.111111111111111in"}
 
-
+FRAME
 
 +-------------------------+-----------------+-------------------+
 | Hardware needed         | Tool's needed   | Parts needed      |
@@ -17,17 +18,16 @@ EXTRUSION REFERENCE
 |          |              | driver |        |       | Extrusion |
 +==========+==============+========+========+=======+===========+
 
-![Screenshot 2026-04-06 145045](https://github.com/user-attachments/assets/c086fa74-019b-416a-8e40-cd808b2c6273)
+![](media/image16.jpg){width="2.272030839895013in"
+height="1.8152613735783028in"}
 
-![Screenshot 2026-04-06 145215](https://github.com/user-attachments/assets/8458bd89-5188-4d62-b335-49d335d69a6e)
-
-
+![](media/image1.jpg){width="6.5in" height="2.8472222222222223in"}
 
 PREPARE 8 EXTRUSIONS
 
 The extrusions are going to be used in this section. Prepare them as
 shown above, to make "A EXTRUSION SUB-ASSEMBLY".\
-\
+
 Leave a gap between the head of the screw and the extrusions, this will
 be needed in the following steps
 
@@ -42,10 +42,11 @@ FRAME
 |        |        | 4           | B extrusions        |
 +========+========+=============+=====================+
 
-![Screenshot 2026-04-06 145414](https://github.com/user-attachments/assets/d2322b31-e9d2-419a-9dd2-1f7f0cee7abf)
+![](media/image8.jpg){width="2.4479975940507437in"
+height="2.028228346456693in"}
 
-![Screenshot 2026-04-06 145528](https://github.com/user-attachments/assets/7366c5e3-cdcf-4d33-8796-988a6a56673b)
-
+![](media/image2.jpg){width="4.824880796150481in"
+height="3.247516404199475in"}
 
 BUILD ON A FLAT SURFACE
 
@@ -56,12 +57,12 @@ squares may help.
 Put the parts together, make sure to tighten the M5x16 BHCS firmly,
 checking that it's square.
 
-,
+
 
 FRAME
 
-![Screenshot 2026-04-06 145639](https://github.com/user-attachments/assets/63887f84-bdb8-4032-a14c-9964d5480ab8)
-
+![](media/image13.jpg){width="5.659913604549431in"
+height="5.904814085739282in"}
 
 It should look like this.
 
@@ -77,11 +78,11 @@ FRAME
 |        |        |        | sub-assembly |
 +========+========+========+==============+
 
-![Screenshot 2026-04-06 145828](https://github.com/user-attachments/assets/985d0cc3-8d50-415b-b89b-40d39933096c)
+![](media/image11.jpg){width="2.1553926071741034in"
+height="1.7823436132983377in"}
 
-
-![Screenshot 2026-04-06 145920](https://github.com/user-attachments/assets/0e808a1c-ba11-4b31-99ae-6c668ed4cd1b)
-
+![](media/image17.jpg){width="4.971165791776028in"
+height="4.963198818897638in"}
 
 Double check that the frame is square.
 
