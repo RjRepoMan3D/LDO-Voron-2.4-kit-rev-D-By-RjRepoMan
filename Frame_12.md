@@ -28,7 +28,6 @@ section. Prepare them as shown above, to make “A EXTRUSION SUB-ASSEMBLY”.
 Leave a gap between the head of the screw and the
 extrusions, this will be needed in the following steps
 
-FRAME
 
 | Tool’s needed |            |     | Parts needed             |
 | ------------- | ---------- | --- | ------------------------ |
@@ -52,7 +51,6 @@ or 90 degree squares may help.
 Put the parts together, make sure to tighten
 the M5x16 BHCS firmly, checking that it’s square.
 
-FRAME
 
 <img width="327" height="266" alt="Screenshot 2026-04-16 015513" src="https://github.com/user-attachments/assets/b01f4bfa-8cd2-4ccc-a49d-aecafbb5707f" />
 
@@ -61,7 +59,7 @@ FRAME
 
 It should look like this.
 
-FRAME
+
 
 |     | Tool’s needed |     | Parts needed             |
 | --- | ------------- | --- | ------------------------ |
@@ -75,7 +73,7 @@ FRAME
 
 Double check that the frame is square.
 
-FRAME
+
 
 <img width="279" height="227" alt="Screenshot 2026-04-16 020034" src="https://github.com/user-attachments/assets/bc2993e4-c438-4beb-a3d1-603bf6b47063" />
 
@@ -90,7 +88,7 @@ FRAME
 
 This is the “Bed attachment extrusions”  
 
-FRAME
+
 
 |     | Hardware needed    | Tool’s needed |     |     | Parts needed              |
 | --- | ------------------ | ------------- | --- | --- | ------------------------- |
@@ -106,7 +104,7 @@ PLACEMENT AND POSITION OF LOCATION!
 *The brass M5 Precision Spacer are used in
 place of the M5 Shim. This will be for all M5 Shims in the guide unless noted
 
-FRAME
+
 
 <img width="554" height="634" alt="Screenshot 2026-04-16 020606" src="https://github.com/user-attachments/assets/ad26128c-05bd-4242-bdea-730984032929" />
 
@@ -114,7 +112,7 @@ FRAME
 | POSITION BED EXTRUSIONS Find the centreline of the printer and position the bed extrusions as shown in the diagram to the left. The distance between the extrusions is 130mm centred on the centreline of the printer.   1/2 printer width for standard sizes: 250 spec 205mm 300 spec 230mm 350 spec 255mm | ALL UNITS ARE METRIC If a unit is not specified assume it’s metric. All distances are called out in millimeters. |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 
-FRAME
+
 
 <img width="705" height="751" alt="Screenshot 2026-04-16 020729" src="https://github.com/user-attachments/assets/f59c180f-c921-4ffb-a327-b75eb2cb36bb" />
 
