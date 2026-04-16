@@ -41,7 +41,7 @@ TABLE OF CONTENTS
 | --------------------- | --- | ------------- | --- |
 | [Introduction](the_start.md)          | 04  | A/B Belts     | 124 |
 | Hardware              | 07  | Stealthburner | 146 |
-| Frame                 | 12  | Electronics   | 148 |
+| [Frame](Frame_12.md)                 | 12  | Electronics   | 148 |
 | Z Drives and Idlers   | 22  | Controller    | 174 |
 | Build Plate           | 52  | Wiring        | 180 |
 | A/B Drives and Idlers | 62  | Skirts        | 212 |
