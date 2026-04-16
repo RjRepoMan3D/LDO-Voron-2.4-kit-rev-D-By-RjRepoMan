@@ -37,8 +37,6 @@ extrusions, this will be needed in the following steps
 <img width="341" height="287" alt="Screenshot 2026-04-16 015229" src="https://github.com/user-attachments/assets/33369d5d-08a3-4228-87e5-b4483dcf180a" />
 
 
-<img width="327" height="266" alt="Screenshot 2026-04-16 015513" src="https://github.com/user-attachments/assets/188da330-1079-4197-928a-8dcc4ef091a9" />
-<img width="327" height="266" alt="Screenshot 2026-04-16 015513" src="https://github.com/user-attachments/assets/d84caa91-b735-4505-8f21-9e436ca41d65" />
 <img width="944" height="578" alt="Screenshot 2026-04-16 015341" src="https://github.com/user-attachments/assets/296cf91d-5a3d-4aef-aed9-cc4b5763ec5b" />
 
 
