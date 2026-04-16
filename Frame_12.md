@@ -1,6 +1,3 @@
-<style>
-</style>
-
 FRAME
 
 <img width="947" height="925" alt="Screenshot 2026-04-16 014422" src="https://github.com/user-attachments/assets/ef097a1d-db2c-4797-8128-3c39400eeb2a" />
